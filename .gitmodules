@@ -1,6 +1,6 @@
 [submodule "stocknet-dataset"]
 	path = stocknet-dataset
-	url = https://github.com/yumoxu/stocknet-dataset.git
+	url = https://github.com/MarkLo127/stocknet-dataset.git
 [submodule "Astock"]
 	path = Astock
-	url = https://github.com/JinanZou/Astock.git
+	url = https://github.com/MarkLo127/Astock.git
